@@ -1,4 +1,7 @@
 test 1 locally made
+
+THIS IS BERLIN
+
 new change locally 16:47
 another change 16:49
 commit 16:58
@@ -12,3 +15,5 @@ Made a change in REPO 10:20
 This change is made in Berlin branch 15:36
 More Berlin changes 15:52
 Lalala do not know about the troubles in master/hotfix/hotfix2
+
+tralallala last change in Berlin before merge (plus line 2)

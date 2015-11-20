@@ -1,4 +1,7 @@
 test 1 locally made
+
+THIS IS BERLIN
+
 new change locally 16:47
 another change 16:49
 commit 16:58
@@ -9,11 +12,19 @@ change 09:18
 
 Made a change in REPO 10:20
 
+
 OPS! we had a problem here and created hofix branch and fixed.
 OOPS! Another problem that we fixed in hofix1 branch
+
+This change is made in Berlin branch 15:36
+More Berlin changes 15:52
+Lalala do not know about the troubles in master/hotfix/hotfix2
 
 A change made in Master branch 15:43
 another master change 15:54
 master never sleeps 16:10
 
 fredags change 09:25
+
+tralallala last change in Berlin before merge (plus line 2)
+
